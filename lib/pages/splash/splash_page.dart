@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:multistore_app/pages/splash/widget/splash_painter.dart';
+import 'package:flutter_multistore/pages/splash/widget/splash_painter.dart';
 
 import '../../utils/color_resources.dart';
 import '../../utils/images.dart';
